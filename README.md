@@ -10,7 +10,8 @@ O repositório está organizado em três arquivos compactados:
 | Arquivo | Descrição |
 |---|---|
 | `BubbleInsertion_paa.zip` | Arquivos relacionados à implementação dos algoritmos Bubble Sort e Insertion Sort. |
-| `Programa.zip` | Arquivos do programa principal de execução do projeto. |
+| `Programa.zip` | Arquivos do programa de execução do projeto. |
+| `ProgramaV2.zip` | Versão completa e atualizada do programa de execução. |
 | `QuickMergeSelection_paa.zip` | Arquivos relacionados aos algoritmos Quick Sort, Merge Sort e Selection Sort. |
 
 ## 🔢 Algoritmos de ordenação
